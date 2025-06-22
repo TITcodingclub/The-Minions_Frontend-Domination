@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.logo img{
+    max-width: 15px;
+    margin: 3px 1000px 0px 10px;
+}
+.menu a{
+display: flex;
+text-decoration: none;
+color: yellowgreen;
+transition: all 0.3s ease;
+
+}
+.menu li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+
+    .logo{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    margin-left: 10PX;
+    }
+    .menu ul{
+
+    }
